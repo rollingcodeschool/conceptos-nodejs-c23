@@ -1,0 +1,20 @@
+{
+  "name": "17-conceptosnode",
+  "version": "1.0.0",
+  "description": "Primer backend de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["endpoint", "middleware"],
+  "author": "Arias Emilse",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.1.1",
+      "onFail": "download"
+    }
+  },
+  "type": "module"
+}
